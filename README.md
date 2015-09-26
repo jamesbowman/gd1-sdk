@@ -2,7 +2,7 @@
 
 To compile all the samples run:
 
-gforth -e 'include main.fs bye'
+    gforth -e 'include main.fs bye'
 
 For more details on the Gameduino 1 coprocessor, see:
 
