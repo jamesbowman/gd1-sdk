@@ -60,24 +60,23 @@ include hwdefs.fs
 include memtest.fs
 include helloworld.fs
 include flowtest.fs
-include setpixel.fs
-include wireframe.fs
+include setpixel.fs             \ 
+include wireframe.fs            \ http://excamera.com/sphinx/gameduino/samples/wireframe/index.html
 include eraser.fs
-include splitscreen.fs
+include splitscreen.fs          \ http://excamera.com/sphinx/gameduino/samples/splitscreen/index.html
 include selftest1.fs
 include reload.fs
 include palcopy.fs
-include random.fs
+include random.fs               \ http://excamera.com/sphinx/gameduino/samples/snow/index.html
 include rasterinterrupt.fs
-include soundbuffer.fs
+include soundbuffer.fs          \ http://excamera.com/sphinx/gameduino/samples/cowbell/index.html
 include cold.fs
 include testflash.fs
-include bgstripes.fs
-include dna.fs
+include bgstripes.fs            \ http://excamera.com/sphinx/gameduino/samples/bgcolor/index.html
+include dna.fs                  \ http://excamera.com/sphinx/gameduino/demos/dna/index.html
 include regressfreq.fs
 include showvoices.fs
-include spectrum.fs
+include spectrum.fs             \ http://excamera.com/sphinx/gameduino/demos/spectrum/index.html
 include spr512.fs
-\ include eforth.fs
 
 meta
