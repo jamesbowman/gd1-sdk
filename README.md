@@ -1,6 +1,6 @@
 # SDK for the J1 coprocessor in the Gameduino 1
 
-[![Build Status](https://travis-ci.org/jamesbowman/swapforth.svg?branch=master)](https://travis-ci.org/jamesbowman/gd1-sdk)
+[![Build Status](https://travis-ci.org/jamesbowman/gd1-sdk.svg?branch=master)](https://travis-ci.org/jamesbowman/gd1-sdk)
 
 To compile all the samples run:
 
